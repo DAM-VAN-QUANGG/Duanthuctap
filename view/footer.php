@@ -6,14 +6,14 @@
             <div class="row mb-n10">
                 <div class="col-12 col-sm-6 col-lg-4 col-xl-4 mb-10" data-aos="fade-up" data-aos-delay="200">
                     <div class="single-footer-widget">
-                        <h2 class="widget-title">DVQ-SHOP</h2>
-                        <p class="desc-content">Chào mừng bạn đến với DVQ-SHOP.</br> Phong cách của bạn-Tự tin của bạn.
+                        <h2 class="widget-title">XĐQ-SHOP</h2>
+                        <p class="desc-content">Chào mừng bạn đến với XĐQ-SHOP.</br> Phong cách của bạn-Tự tin của bạn.
                         </p>
                         <!-- Contact Address Start -->
                         <ul class="widget-address">
                             <li><span>Địa chỉ: </span> số 2, 13 P. Trịnh Văn Bô, Xuân Phương, Nam Từ Liêm, Hà Nội</li>
                             <li><span>Call to: </span> <a href="#"> 0867621838</a></li>
-                            <li><span>Mail: </span> <a href="#"> dvq@dvqshop.com</a></li>
+                            <li><span>Mail: </span> <a href="#"> xdq@xdqshop.com</a></li>
                         </ul>
                         <!-- Contact Address End -->
 
@@ -91,7 +91,7 @@
             <div class="row align-items-center">
                 <div class="col-12 text-center">
                     <div class="copyright-content">
-                        <p class="mb-0">© 2023 <strong> DVQ </strong> Made width <i class="fa fa-heart text-danger"></i>
+                        <p class="mb-0">© 2023 <strong> XĐQ </strong> Made width <i class="fa fa-heart text-danger"></i>
                             by <a href="https://hasthemes.com/">HasThemes.</a></p>
                     </div>
                 </div>

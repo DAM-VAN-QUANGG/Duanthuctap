@@ -118,7 +118,7 @@
                             <div id="collapseFour" class="collapse accordion-collapse border-0"
                                 aria-labelledby="headingfour" data-bs-parent="#accordionExample">
                                 <div class="card-body">
-                                    <p>Khách hàng sẽ chịu phí vận chuyển khi chuyển hoàn sản phẩm về cho DVQ SHOP</p>
+                                    <p>Khách hàng sẽ chịu phí vận chuyển khi chuyển hoàn sản phẩm về cho XĐQ SHOP</p>
                                 </div>
                             </div>
                         </div>
@@ -219,8 +219,8 @@
                             <div id="collapseEight" class="collapse accordion-collapse border-0"
                                 aria-labelledby="headingeight" data-bs-parent="#accordionExample">
                                 <div class="card-body">
-                                    <p>Rất đơn giản, bạn hãy truy cập trang web: DVQ SHOP để đặt hàng hoặc gửi email:
-                                        dvqshop@gmail.com, gọi điện thoại số: 0867 621 838 để đặt sản phẩm.</p>
+                                    <p>Rất đơn giản, bạn hãy truy cập trang web: XĐQ SHOP để đặt hàng hoặc gửi email:
+                                        xdqshop@gmail.com, gọi điện thoại số: 0867 621 838 để đặt sản phẩm.</p>
                                 </div>
                             </div>
                         </div>
@@ -236,7 +236,7 @@
                             <div id="collapseEight" class="collapse accordion-collapse border-0"
                                 aria-labelledby="headingeight" data-bs-parent="#accordionExample">
                                 <div class="card-body">
-                                    <p>Trên website DVQ SHOP sẽ cung cấp thông tin sản phẩm đang còn hàng hoặc hết hàng
+                                    <p>Trên website XĐQ SHOP sẽ cung cấp thông tin sản phẩm đang còn hàng hoặc hết hàng
                                         cho khách hàng tham khảo.</p>
                                 </div>
                             </div>
@@ -253,7 +253,7 @@
                             <div id="collapseEight" class="collapse accordion-collapse border-0"
                                 aria-labelledby="headingeight" data-bs-parent="#accordionExample">
                                 <div class="card-body">
-                                    <p>Với DVQ SHOP, khách hàng không phải lo lắng, vì chúng tôi cung cấp sản phẩm chất
+                                    <p>Với XĐQ SHOP, khách hàng không phải lo lắng, vì chúng tôi cung cấp sản phẩm chất
                                         lượng tốt, giá cả phải chăng. Đặc biệt, khách hàng sẽ nhận được sản phẩm và
                                         thanh toán cùng một thời điểm.</p>
                                 </div>
@@ -274,7 +274,7 @@
                                 <div class="card-body">
                                     <p>Quý khách có thể liên hệ Dịch vụ khách hàng theo thông tin sau:</p>
                                     <p>Số 15, Đường đê Hữu Hồng, Phú Châu, Ba Vì , Hà Nội </p>
-                                    <p>Email: dvqshop@gmail.com. ĐT: 0867 621 838</p>
+                                    <p>Email: xdqshop@gmail.com. ĐT: 0867 621 838</p>
                                     <p>Thời gian tư vấn: Thứ hai đến thứ bảy: từ 9h30 đến 21h30.</p>
                                 </div>
                             </div>

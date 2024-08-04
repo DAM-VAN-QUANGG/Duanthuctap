@@ -354,7 +354,7 @@ extract($san_pham);
                             <p class="desc-content mb-2"> SHOP miễn phí giao hàng trên toàn quốc với đơn hàng trị
                                 giá trên 700.000VND. Với các đơn hàng trị giá dưới 300.000VND, Shop sẽ hỗ trợ khách
                                 hàng phần lớn chi phí vận chuyển để đảm bảo sản phẩm đến tay khách hàng một
-                                cách nhanh nhất. DVQ SHOP sử dụng các DỊCH VỤ VẬN CHUYỂN CHUYÊN NGHIỆP để để đảm bảo
+                                cách nhanh nhất. XĐQ SHOP sử dụng các DỊCH VỤ VẬN CHUYỂN CHUYÊN NGHIỆP để để đảm bảo
                                 quyền lợi của khách hàng:</p>
                             <ul class="policy-list mb-2">
                                 <li>Khu vực nội thành: TP Hà Nội, TPHCM (2-3 ngày).</li>
@@ -366,7 +366,7 @@ extract($san_pham);
                             </ul>
                             <h2>Phương thức thanh toán</h2>
                             <p class="desc-content mb-2">Nhằm mang đến quý khách những trải nghiệm mua sắm trực tuyến
-                                tuyệt vời nhất tại DVQ SHOP. Chúng tôi đưa ra nhiều phương thức thanh toán để quý khách
+                                tuyệt vời nhất tại XĐQ SHOP. Chúng tôi đưa ra nhiều phương thức thanh toán để quý khách
                                 dễ dàng lựa chọn:</p>
                             <ul class="policy-list mb-2">
                                 <li>Thanh toán trực tiếp (COD)</li>

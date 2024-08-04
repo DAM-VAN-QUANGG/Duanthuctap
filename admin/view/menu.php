@@ -7,7 +7,7 @@
                 <div class="sa-sidebar-logo">
                     <svg xmlns="http://www.w3.org/2000/svg" width="120px" height="20px">
                         <text x="10" y="15" font-family="Arial" font-size="20" font-weight="bold"
-                            fill="black">DVQ-SHOP</text>
+                            fill="black">XĐQ-SHOP</text>
                     </svg>
                     <div class="sa-sidebar-logo__caption">Admin</div>
                 </div>

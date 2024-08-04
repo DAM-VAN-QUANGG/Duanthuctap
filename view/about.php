@@ -26,9 +26,9 @@
         <div class="row mb-n6">
             <div class="col-lg-6 align-self-center mb-6" data-aos="fade-right" data-aos-delay="600">
                 <div class="about_content">
-                    <h2 class="title">Về cửa hàng DVQ-SHOP của chúng tôi</h2>
+                    <h2 class="title">Về cửa hàng XĐQ-SHOP của chúng tôi</h2>
                     <h3 class="sub-title"></h3>
-                    <p>Chào mừng đến với DVQ-SHOP một trang web bán hàng thời trang nam nữ tuyệt vời! Chúng tôi tự hào
+                    <p>Chào mừng đến với XĐQ-SHOP một trang web bán hàng thời trang nam nữ tuyệt vời! Chúng tôi tự hào
                         là điểm đến lý tưởng cho những người yêu thích phong cách và tự tin.
                         <br> Tại đây, chúng tôi mang đến cho bạn một bộ sưu tập đa dạng và thú vị của các sản phẩm thời
                         trang nam nữ. Với sự kết hợp giữa xu hướng mới nhất và phong cách sáng tạo, chúng tôi cam kết
@@ -127,7 +127,7 @@
                 <!-- Single Service Start -->
                 <div class="single-service">
                     <h2 class="title">Về Chúng Tôi</h2>
-                    <p>DVQ SHOP là một web thời trang được thành lập với sứ mệnh làm nổi bật vẻ đẹp và phong cách cá
+                    <p>XĐQ SHOP là một web thời trang được thành lập với sứ mệnh làm nổi bật vẻ đẹp và phong cách cá
                         nhân của mọi người. Chúng tôi cung cấp một bộ sưu tập đa dạng với nhiều kiểu dáng, màu sắc, và
                         kích thước để đáp ứng nhu cầu của đông đảo khách hàng.</p>
                 </div>
@@ -137,7 +137,7 @@
                 <!-- Single Service Start -->
                 <div class="single-service">
                     <h2 class="title">Những Điều Đặc Biệt</h2>
-                    <p>Chất lượng là ưu tiên hàng đầu tại DVQ SHOP. Chúng tôi chọn lựa cẩn thận từ những thương hiệu uy
+                    <p>Chất lượng là ưu tiên hàng đầu tại XĐQ SHOP. Chúng tôi chọn lựa cẩn thận từ những thương hiệu uy
                         tín để đảm bảo sản phẩm đạt chất lượng cao. Chúng tôi thường xuyên cập nhật bộ sưu tập mới, theo
                         dõi xu hướng thời trang để bạn luôn có những lựa chọn mới nhất.</p>
                 </div>

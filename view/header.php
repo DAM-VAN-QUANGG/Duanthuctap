@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>DVQ-SHOP</title>
+    <title>XĐQ-SHOP</title>
     <!-- Favicons -->
     <link rel="shortcut icon" href="view/images/favicon.ico">
 
@@ -311,7 +311,7 @@
                     <!-- Contact Links Start -->
                     <ul class="contact-links">
                         <li><i class="fa fa-phone"></i><a href="#"> 0867621838</a></li>
-                        <li><i class="fa fa-envelope-o"></i><a href="#">dvq@dvqshop.com</a></li>
+                        <li><i class="fa fa-envelope-o"></i><a href="#">xdq@xdqshop.com</a></li>
                         <li><i class="fa fa-clock-o"></i> <span>Monday - Sunday 9.00 - 18.00</span> </li>
                     </ul>
                     <!-- Contact Links End -->
